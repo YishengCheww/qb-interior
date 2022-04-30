@@ -1,2 +1,2 @@
 # qb-interior
-Interior Models Used With QB-Apartments and QB-Houses 🛏️
+I Added Gabz Pinkcage Shells inside the script , You can match the qb-apartments to use.
